@@ -1,3 +1,4 @@
+
 Exp:7-  Reproducing an Image Using Prompts for Image Generation
 
 Aim:
@@ -56,7 +57,7 @@ Step 7: Compare the Results
 Compare original and generated images.
 Document differences and improvements.
 
-Output:
+Output:[Exp-7 Megala.pdf](https://github.com/user-attachments/files/28681521/Exp-7.Megala.pdf)
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
